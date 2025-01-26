@@ -18,5 +18,4 @@ A simple image gallery where you can search for beautiful images by keyword usin
 
 
 
-**License 📜**
-This project is open-source under the MIT License. See the LICENSE file for details.
+
